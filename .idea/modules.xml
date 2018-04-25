@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wrecker.iml" filepath="$PROJECT_DIR$/wrecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wercker.iml" filepath="$PROJECT_DIR$/wercker.iml" />
     </modules>
   </component>
 </project>
