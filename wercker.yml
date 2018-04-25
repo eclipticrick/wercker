@@ -17,3 +17,8 @@ build:
       goals: install
       cache_repo: true
       version: 3.5.2
+    #- install-packages:
+            #packages: git subversion apache2
+    - script:
+      name: mvn-clean-install
+      code: mvn clean install
